@@ -2,6 +2,10 @@
 
 ##### It's a guided project I did to practice my devops skills.
 
+Summary:
+Developed and implemented a robust CI/CD pipeline utilizing GitHub, Jenkins, SonarQube, Nexus, and Slack for efficient code integration, analysis, artifact management, and real-time notifications.
+
+
 ### Prerequisites
 - JDK 1.8 or later
 - Maven 3 or later
